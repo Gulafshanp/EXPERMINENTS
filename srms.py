@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
-
-
-pip install transformers pandas torch streamlit
-
-
-# In[2]:
 
 
 import streamlit as st
