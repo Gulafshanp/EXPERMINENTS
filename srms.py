@@ -1,6 +1,6 @@
 
 
-
+import transformers
 import streamlit as st
 import pandas as pd
 from transformers import AutoModelForCausalLM, AutoTokenizer
